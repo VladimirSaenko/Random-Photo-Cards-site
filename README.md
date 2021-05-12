@@ -1,4 +1,4 @@
-# Random-Photo-Cards
+# Random-Photo-Cards-site
 
 Сайт с рандомными фото-карточками
 
