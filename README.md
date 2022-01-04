@@ -1,15 +1,7 @@
 # Random-Photo-Cards-site
 
-### Сайт с рандомными фото-карточками
+## Сайт с рандомными фото-карточками
 
-## Portfolio  {
+### Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Photo%20Cards/index.html
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Photo%20Cards/index.html
-
-### }
-
-## Codepen {
-
-### https://codepen.io/vladimirsaenko/pen/RwVWmQE
-
-### }
+### Codepen: https://codepen.io/vladimirsaenko/pen/eYGrxJM
